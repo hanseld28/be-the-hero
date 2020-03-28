@@ -27,21 +27,15 @@ O objetivo do **Be The Hero** é conectar pessoas que tem vontade de ajudar ONG'
 
 1. Splash screen:
 
-<center>
-![Tela de carregamento](/prototype/assets/app/splash.svg)
-</center>
+<center>![Tela de carregamento](/prototype/assets/app/splash.svg)</center>
 
 2. Listagem dos casos cadastrados pelas ONGs:
 
-<center>
-![Tela de listagem dos casos cadastrados pelas ONGs](/prototype/assets/app/list_incidents.svg)
-</center>
+<center>![Tela de listagem dos casos cadastrados pelas ONGs](/prototype/assets/app/list_incidents.svg)</center>
 
 3. Detalhes de um caso específico:
 
-<center>
-![Tela de detalhes de um caso específico](/prototype/assets/app/incident_details.svg)
-</center>
+<center>![Tela de detalhes de um caso específico](/prototype/assets/app/incident_details.svg)</center>
 
 ## Tecnologias utilizadas
 
