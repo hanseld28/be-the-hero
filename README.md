@@ -1,10 +1,16 @@
 # Be the Hero
 
-O objetivo do **Be The Hero** é conectar pessoas que tem vontade de ajudar ONG's.
+![Release of project](https://img.shields.io/badge/dynamic/json?color=red&label=version&prefix=v&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhanseld28%2Fbe-the-hero%2Fmaster%2Fbackend%2Fpackage.json) ![npm version](https://img.shields.io/badge/npm-v6.13.4-green) ![node version](https://img.shields.io/badge/node-v12.16.1-brightgreen)
 
-## Protótipos
+<p align="center">
+  <img src="/frontend/src/assets/logo.svg">
+</p>
 
-### Telas da aplicação Web
+O objetivo do projeto **Be The Hero (Seja o herói)** é conectar pessoas que anseiam por ajudar ONG's. Somos uma ponte entre essas entidades solidárias e heróis dispostos a ajudarem em casos específicos de cada uma delas. Venha ser um herói também!
+
+## :art: Protótipos 
+
+### :computer: Telas da aplicação Web 
 
  1. Login:
 
@@ -22,7 +28,7 @@ O objetivo do **Be The Hero** é conectar pessoas que tem vontade de ajudar ONG'
 
 ![Tela de cadastro de um novo caso pela ONG](/prototype/assets/web/create_new_incident.svg) 
 
-### Telas do Aplicação mobile
+### :iphone: Telas do Aplicação mobile 
 
 
 1. Splash screen:
@@ -37,9 +43,9 @@ O objetivo do **Be The Hero** é conectar pessoas que tem vontade de ajudar ONG'
 
 ![Tela de detalhes de um caso específico](/prototype/assets/app/incident_details.svg)
 
-## Tecnologias utilizadas
+## :wrench::hammer: Tecnologias utilizadas 
 
-### API
+### :pushpin: API
 
 O back-end da aplicação foi construído inteiramente com ***Node.js***, utilizando, principalmente, as seguintes dependências: 
 
@@ -51,14 +57,14 @@ O back-end da aplicação foi construído inteiramente com ***Node.js***, utiliz
 	- **Knex.js** *(Query builder)*
 
 
-### Aplicação Web
+### :pushpin: Aplicação Web
 
 O front-end da aplicação foi construído utilizando o ***ReactJS***, utilizando, principalmente, as seguintes dependências:
 
 - **Axios**
 - **React Router**
 
-### Aplicativo Mobile
+### :pushpin: Aplicativo Mobile
 
 O app mobile foi desenvolvido em React Native, utilizando, principalmente, as seguintes dependências:
 
@@ -67,5 +73,5 @@ O app mobile foi desenvolvido em React Native, utilizando, principalmente, as se
 - **React Navigation**
 
 ***
-#### Projeto desenvolvido na ***Semana OmniStack 11.0***. 
-> Evento oferecido pela ***Rocketseat*** :rocket:. 
+#### :bookmark: Projeto desenvolvido na ***Semana OmniStack 11.0***. 
+> Evento oferecido pela [***Rocketseat***](https://rocketseat.com.br/) :rocket:.
